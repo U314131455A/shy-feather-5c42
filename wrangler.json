@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "shy-feather-5c42",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2b6c6f76-4507-4eaf-ac1d-5e3181929c91",
+      "database_name": "broken-rain-d5bf-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
